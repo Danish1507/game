@@ -1,3 +1,3 @@
 # Simon Game 
- this project was created from the local system.
- this is game , geveloped in 2023.
+ This project was created by me.
+ this game was Developed in 2023.
